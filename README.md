@@ -5,7 +5,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="fest.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/fest.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Festival</h3>
@@ -20,7 +20,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="year.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/year.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Новый год</h3>
@@ -35,7 +35,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="father.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/father.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День защитника Отечества</h3>
@@ -50,7 +50,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="woman.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/woman.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Женский день</h3>
@@ -65,7 +65,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="spring.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/spring.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День весны и труда</h3>
@@ -80,7 +80,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="victory.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/victory.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Победы</h3>
@@ -95,7 +95,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="child.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/child.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День защиты детей</h3>
@@ -110,7 +110,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="russia.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/russia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День России</h3>
@@ -125,7 +125,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="family.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/family.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День семьи, любви и верности</h3>
@@ -140,7 +140,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="knowledge.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/knowledge.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Знаний</h3>
@@ -155,7 +155,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="unity.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/unity.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День народного единства</h3>
@@ -170,7 +170,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="christmas.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/christmas.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Рождество</h3>
@@ -185,7 +185,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="baptism.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/baptism.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Крещение</h3>
@@ -200,7 +200,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="meeting.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/meeting.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Сретение</h3>
@@ -215,7 +215,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="notice.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/notice.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Благовещение</h3>
@@ -230,7 +230,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="sunday.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/sunday.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Вербное воскресение</h3>
@@ -245,7 +245,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="easter.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/easter.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Пасха Христова</h3>
@@ -260,7 +260,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="rise.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/rise.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Вознесение</h3>
@@ -275,7 +275,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trinity.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/trinity.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Троица</h3>
@@ -290,7 +290,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="pedro.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/pedro.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Петр и Феврония</h3>
@@ -305,7 +305,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="transfiguration.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/transfiguration.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Преображение</h3>
@@ -320,7 +320,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="exaltation.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/exaltation.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Воздвижение</h3>
@@ -335,7 +335,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="cover.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/cover.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Покров</h3>
