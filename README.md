@@ -110,7 +110,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="image/russia.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/family.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День семьи</h3>
@@ -125,7 +125,7 @@ With purchases over $400, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="image/family.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/russia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Россия</h3>
