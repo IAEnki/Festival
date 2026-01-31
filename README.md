@@ -25,7 +25,7 @@
       <img src="zachit.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День защитника Отечества</h3>
+      <h3 style="margin-top: 0;">День защитника</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -115,7 +115,7 @@
       <img src="semia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День семьи, любви и верности</h3>
+      <h3 style="margin-top: 0;">День России</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -145,7 +145,7 @@
       <img src="edinst.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День народного единства</h3>
+      <h3 style="margin-top: 0;">День Победы</h3>
       <p>$10</p>
     </td>
   </tr>
